@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Zihao's github stats](https://github-readme-stats.vercel.app/api?username=zihaomu)](https://github.com/anuraghazra/github-readme-stats)
+[![Zihao's github stats](https://github-readme-stats.vercel.app/api?username=zihaomu)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gradient)
 
 - 📫 How to reach me: yangshu1109@foxmail.com
 - 🌱 I’m currently learning Distributed Machine Learning and Software Development.
