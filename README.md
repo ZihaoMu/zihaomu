@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Zihao's github stats](https://github-readme-stats.vercel.app/api?username=zihaomu)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me: yangshu1109@foxmail.com
+- 🌱 I’m currently learning Distributed Machine Learning and Software Development.
