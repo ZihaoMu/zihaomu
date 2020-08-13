@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Zihao's github stats](https://github-readme-stats.vercel.app/api?username=zihaomu&show_icons=true&theme=merko)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zihaomu&show_icons=true&theme=radical)
 - 📫 How to reach me: zihaomu6@gmail.com
