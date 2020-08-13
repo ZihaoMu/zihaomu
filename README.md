@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zihaomu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zihaomu&repo=github-readme-stats)
 
 - 📫 How to reach me: zihaomu6@gmail.com
