@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ZihaoMu's github stats](https://github-readme-stats.vercel.app/api?username=zihaomu&count_private=true&show_icons=true&theme=merko)
+<p align="center">
+  <a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zihaomu&count_private=true&show_icons=true&theme=vue"></img>
+  </a>
+  <a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaomu&layout=default&theme=vue&hide=fortran"></img>
+  </a>
+</p>
 
-- 📫 How to reach me: zihaomu6@gmail.com
