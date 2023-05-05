@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on OpenCV, dnn and inference engine.
+- 🌱 I’m currently learning NLP.
+- 📫 How to reach me: zihaomu@outlook.com
+
 <!--
 **zihaomu/zihaomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zihaomu&count_private=true&show_icons=true&theme=vue"></img>
-  </a>
-  <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaomu&layout=default&theme=vue&hide=fortran"></img>
-  </a>
-</p>
 
